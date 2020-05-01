@@ -7,10 +7,10 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    Hii, i am <Styled.a href="http://example.com/">Eka</Styled.a>
-    {` `}
-    Prasetia.
-    <br />
-    welcome
+    Hi, see my{" "}
+    <Styled.a href="https://twolevel.net/" target="_blank">
+      scratch
+    </Styled.a>{" "}
+    app, join my <Styled.a href="https://discord.gg/2gewAA">Discord</Styled.a>
   </Fragment>
 )

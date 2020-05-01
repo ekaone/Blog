@@ -1,0 +1,24 @@
+---
+title: Private Scope
+date: 2020-05-01
+---
+
+You can pass desired properties, this approach better for security reason
+
+```js
+const privateScope = (() => {
+  const foo = "Foo";
+  const bar = "Bar";
+  const restricted = "Secret";
+  const fn = () => {
+    return "this is a function";
+  };
+
+  return { foo, bar, fn };
+})();
+
+console.log(privateScope.foo);  // Foo
+console.log(privateScope.bar);  // Bar
+console.log(privateScope.fn()); // this is a function
+console.log(privateScope.restricted); // undefined
+```

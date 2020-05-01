@@ -12,9 +12,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `JS Discovery`,
+    title: `Eka Prasetia`,
     author: `Eka Prasetia`,
-    description: `Awesome tech bring your life more better`,
+    description: `Awesome codes bring your life more amazing`,
     social: [
       {
         name: `twitter`,
@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`
+        url: `https://github.com/`
       }
     ]
   }
