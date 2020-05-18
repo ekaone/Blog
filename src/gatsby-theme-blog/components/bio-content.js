@@ -11,6 +11,6 @@ export default () => (
     <Styled.a href="https://twolevel.net/" target="_blank">
       scratch
     </Styled.a>{" "}
-    app, join my <Styled.a href="https://discord.gg/2gewAA">Discord</Styled.a>
+    app, join my <Styled.a href="https://discord.gg/Hwze4FS">Discord</Styled.a>
   </Fragment>
 )

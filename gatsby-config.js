@@ -4,7 +4,7 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {
         // basePath defaults to `/`
-        // basePath: `/`,
+        // basePath: `/`
         // contentPath: `content/posts`,
         // assetPath: `content/assets`
       }
