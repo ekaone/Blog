@@ -4,9 +4,17 @@
   </a>
 </p>
 <h1 align="center">
-  My blog powered by Gatsby
+  Powered by GatsbyJS
 </h1>
 
-Quickly get started using the Gatsby blog theme! This starter creates a new Gatsby site that is preconfigured to work with the [official Gatsby blog theme](https://www.npmjs.com/package/gatsby-theme-blog).
+I am co-author of Indonesia Community for GatsbyJS Indonesia and RedwoodJS Indonesia
+Let's discuss on [Twitter](https://twitter.com/dannyeka)
 
-## 🚀 Lets start
+## 🚀 GatsbyJS Indonesia
+
+Welcome to [GatsbyJS Indonesia Community](http://gatsbyjs.id/)
+
+## 🚀 RedwoodJS Indonesia
+
+Welcome to [RedwoodJS Indonesia Community](https://redwoodjs.id/)
+RedwoodJS [Official](https://redwoodjs.com/)
