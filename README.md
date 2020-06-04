@@ -7,7 +7,7 @@
   Powered by GatsbyJS
 </h1>
 
-I am co-author of Indonesia Community for GatsbyJS Indonesia and RedwoodJS Indonesia
+I am author of Indonesia Community for GatsbyJS Indonesia and RedwoodJS Indonesia
 Let's discuss on [Twitter](https://twitter.com/dannyeka)
 
 ## 🚀 GatsbyJS Indonesia
