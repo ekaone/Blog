@@ -18,3 +18,6 @@ Welcome to [GatsbyJS Indonesia Community](http://gatsbyjs.id/)
 
 Welcome to [RedwoodJS Indonesia Community](https://redwoodjs.id/)
 RedwoodJS [Official](https://redwoodjs.com/)
+
+## Host
+Build and Deploy on [Netlify](https://netlify.com/)
