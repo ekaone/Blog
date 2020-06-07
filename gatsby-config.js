@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/`
+        url: `https://github.com/ekaone`
       }
     ]
   }

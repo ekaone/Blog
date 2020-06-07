@@ -7,9 +7,9 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    Hi, see my{" "}
-    <Styled.a href="https://twolevel.net/" target="_blank">
-      scratch
+    Hi, see my other{" "}
+    <Styled.a href="https://github.com/ekaone" target="_blank">
+      stuff
     </Styled.a>{" "}
     app.
   </Fragment>

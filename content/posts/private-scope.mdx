@@ -1,24 +1,26 @@
 ---
 title: Private Scope
 date: 2020-05-01
+excerpt: Safety your private properties
 ---
 
-You can pass desired properties, this approach better for security reason
+You can pass desired properties, this approach better for security reason.
 
 ```js
 const privateScope = (() => {
   const foo = "Foo";
   const bar = "Bar";
-  const restricted = "Secret";
-  const fn = () => {
-    return "this is a function";
+  const printFoo = () => {
+    return `hi, i am ${foo}`;
+  };
+  const printBar = () => {
+    return `hi, i am ${bar}`;
   };
 
-  return { foo, bar, fn };
+  return { printFoo, printBar };
 })();
 
-console.log(privateScope.foo);  // Foo
-console.log(privateScope.bar);  // Bar
-console.log(privateScope.fn()); // this is a function
-console.log(privateScope.restricted); // undefined
+console.log(privateScope.printFoo()); // hi, i am Foo
+console.log(privateScope.printBar()); // hi, i am Bar
+console.log(privateScope.foo); // undefined
 ```

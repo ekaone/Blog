@@ -4,20 +4,43 @@
   </a>
 </p>
 <h1 align="center">
-  Powered by GatsbyJS
+  Powered by Gatsby
 </h1>
 
-I am author of Indonesia Community for GatsbyJS Indonesia and RedwoodJS Indonesia
-Let's discuss on [Twitter](https://twitter.com/dannyeka)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed710aa0-a724-419e-ae77-c96cabbf8c9d/deploy-status)](https://app.netlify.com/sites/stupefied-pare-86dae4/deploys)
 
-## 🚀 GatsbyJS Indonesia
+## Author
 
-Welcome to [GatsbyJS Indonesia Community](http://gatsbyjs.id/)
+✔ Eka Prasetia 🤵
 
-## 🚀 RedwoodJS Indonesia
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
+</a>
 
+<<<<<<< HEAD
 Welcome to [RedwoodJS Indonesia Community](https://redwoodjs.id/)
 RedwoodJS [Official](https://redwoodjs.com/)
 
 ## Host
-Build and Deploy on [Netlify](https://netlify.com/)
+
+# Build and Deploy on [Netlify](https://netlify.com/)
+
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Tweet-Twitter-blue" alt="Twitter" />
+</a>
+
+<a href="mailto:ekaone3033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Email" />
+</a>
+
+✔ Collection my App
+
+Find example all my [Scratch App](https://twolevel.net)
+
+✔ Community
+
+I am author for two communities in Indonesia
+
+- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
+- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
+  > > > > > > > add stuff
