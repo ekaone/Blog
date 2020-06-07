@@ -17,14 +17,6 @@
   <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
 </a>
 
-<<<<<<< HEAD
-Welcome to [RedwoodJS Indonesia Community](https://redwoodjs.id/)
-RedwoodJS [Official](https://redwoodjs.com/)
-
-## Host
-
-# Build and Deploy on [Netlify](https://netlify.com/)
-
 <a href="https://twitter.com/dannyeka">
   <img src="https://img.shields.io/badge/Tweet-Twitter-blue" alt="Twitter" />
 </a>
@@ -43,4 +35,3 @@ I am author for two communities in Indonesia
 
 - GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
 - RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
-  > > > > > > > add stuff
